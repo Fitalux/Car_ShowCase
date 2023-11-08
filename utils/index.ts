@@ -63,7 +63,7 @@ export const generateCarImageUrl = (car: CarProps, angle?: string) => {
   url.searchParams.append("customer", "hrjavascript-mastery");
   // url.searchParams.append(
   //   "customer",
-  //   process.env.NEXT_PUBLIC_IMAGIN_API_KEY || ""
+  //   process.env.NEXT_PUBLIC_IMAGIN_API_KEY || "" 해당 환경 변수(hrjavascript-mastery)가 설정 되어 있을 경우 해당 값 사용, 비어있는 경우 빈 문자열 사용
   // );
   url.searchParams.append("make", make);
   url.searchParams.append("modelFamily", model.split(" ")[0]);
