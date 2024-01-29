@@ -1,4 +1,5 @@
 <h1>Car Show Case Project</h1>
+<img src="https://github.com/Fitalux/Portfolio/blob/main/src/assets/image/workread/nextsite.png">
 
 youtube 크리에이터 Javascript Mastery의 해당 영상(https://www.youtube.com/watch?v=pUNSHPyVryU&t=71s)을 따라한 프로젝트로 react.js, next.js, typescript, Tailwind CSS를 사용하여 작성되었습니다.<br>
 
